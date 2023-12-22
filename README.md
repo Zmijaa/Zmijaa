@@ -1,4 +1,6 @@
 - 🌍  I'm based in Gradsko,Macedonia
+- 👀 I’m interested in cars,automechanic,motorcycle
+- 🌱 I’m currently learning at the Military Academy in Skopje North Macedonia
 - ✉️  You can contact me at: mircevfilip98@gmail.com
 - 🧠  I have experience in JavaScript
 - 👨‍💻 All of my projects are available at: https://github.com/Zmijaa
